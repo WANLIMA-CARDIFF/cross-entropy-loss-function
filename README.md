@@ -9,4 +9,4 @@ yHat = model(x)
 loss = hand_ce_loss(yHat, y)
 ```
 
-There is a more detailed explanation in my [CSDN](https://blog.csdn.net/mawonly/article/details/128295367?spm=1001.2014.3001.5502) blog.
+There is a more detailed explanation in my [CSDN](https://blog.csdn.net/mawonly/article/details/128308722?spm=1001.2014.3001.5502) blog.
